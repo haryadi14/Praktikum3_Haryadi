@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\bin\Debug\P3_2_1204026.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\bin\Debug\P3_2_1204026.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\bin\Debug\P3_2_1204026.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.ChildForm.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P3_2_1204026\P3_2_1204026\obj\Debug\P3_2_1204026.ParentForm.resources
